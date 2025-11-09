@@ -1,0 +1,28 @@
+1762687932.472756 Button 'Points to Win: 10' action returned: points
+1762687934.339339 Button 'Cancel' action returned: cancel
+1762687935.179152 Button 'Players: 2' action returned: players
+1762687936.024505 Button 'Cancel' action returned: cancel
+1762687936.729069 Button 'Set Player Keys' action returned: keys
+1762687937.512473 Button 'Done' action returned: done
+1762687940.729884 Button 'View Rules' action returned: None
+1762687959.549794 Button 'View Rules' action returned: None
+1762687962.225416 Button 'Start Game' action returned: start
+1762687965.205721 KEYDOWN detected for P1 at 1.766595
+1762687977.025797 Button 'Start Game' action returned: start
+1762687978.791096 KEYDOWN detected for P1 at 0.383323
+1762687982.770162 KEYDOWN detected for P2 at 0.208485
+1762688053.211829 Button 'Points to Win: 10' action returned: points
+1762688061.120494 Button 'Done' action returned: done
+1762688062.828575 Button 'Players: 2' action returned: players
+1762688063.643880 Button '+' action returned: inc
+1762688064.823634 Button '-' action returned: dec
+1762688066.473799 Button 'Done' action returned: done
+1762688067.444973 Button 'Set Player Keys' action returned: keys
+1762688068.744005 Button 'Player 1: A' action returned: 0
+1762688073.174942 Button 'Player 2: L' action returned: 1
+1762688076.159909 Button 'Done' action returned: done
+1762688082.268872 Button 'View Rules' action returned: None
+1762688084.019923 Button 'Start Game' action returned: start
+1762688086.490797 KEYDOWN detected for P1 at 0.230785
+1762688090.085317 KEYDOWN detected for P2 at 0.277010
+1762688093.644008 KEYDOWN detected for P1 at 0.480020
